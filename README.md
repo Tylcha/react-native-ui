@@ -1,4 +1,4 @@
-![alt text](http://url/to/img.png)
+![alt text](https://github.com/Tylcha/react-native-ui/blob/main/Screenshot%20(8).png)
 
 # Sample Snack app
 
